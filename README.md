@@ -1,11 +1,9 @@
-### Hi there 👋
 
 # Olá, me chamo Pablo Reis!
 ## Bem vindo ao meu perfil!
 
 - 🔭 Atualmente estou trabalhando como programador Trainee na CAPYS IT SOLUTIONS!
 - 🌱 Atualmente estou aprendendo programação em C#, consultas utilizando SQL SERVER, utilização e testes de APIs através do POSTMAN e acompanhar e melhorar winservices!
-- 📫 Como entrar em contato comigo: Linkedin: https://www.linkedin.com/in/pablo-leite-martins-dos-reis-77a317221/
 - 😄 Pronomes: Ele/Dele
 
 ## Ferramentas e tecnologias
