@@ -2,8 +2,8 @@
 # Olá, me chamo Pablo Reis!
 ## Bem vindo ao meu perfil!
 
-- 🔭 Atualmente estou trabalhando como programador Trainee na CAPYS IT SOLUTIONS!
-- 🌱 Atualmente estou aprendendo programação em C#, consultas utilizando SQL SERVER, utilização e testes de APIs através do POSTMAN e acompanhar e melhorar winservices!
+- 🔭 Atualmente estou trabalhando como Desenvolvedor Júnior II na CAPYS IT SOLUTIONS!
+- 🌱 Atuando em sistemas baseados em tecnologia .Net framework, .Net core,com SQL SERVER, windows services .NET Framework e sistemas WebForms.
 - 😄 Pronomes: Ele/Dele
 
 ## Ferramentas e tecnologias
